@@ -37,7 +37,7 @@ export const CurrentProfession = () => {
             </div>
           </div>
 
-          <div className="text-gray-800 text-lg font-semibold dark:text-gray-300">
+          {/* <div className="text-gray-800 text-lg font-semibold dark:text-gray-300">
             <div>
               2.{" "}
               <span className="text-blue-500 text-opacity-80 duration-300">
@@ -80,7 +80,7 @@ export const CurrentProfession = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

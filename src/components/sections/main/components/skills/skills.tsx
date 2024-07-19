@@ -16,7 +16,7 @@ export const Skills = () => {
             Frontend Technologies : &nbsp;
             <span className="font-normal text-sm text-gray-500 dark:text-gray-400">
               HTML 5, CSS 3, JavaScript, JQuery, TypeScript, Bootstrap,
-              Tailwind.
+              Tailwind, Redux.
             </span>
           </div>
 
