@@ -4,7 +4,7 @@ export const ViewCV = () => {
       <a
         href="/resume/Shobhit_Resume.pdf"
         target="_blank"
-        className="flex items-center gap-2 border text-[11px] text-blue-500 dark:text-blue-300 py-[7.5px] px-4 border-blue-300 dark:border-blue-500 rounded-md dark:hover:text-blue-500 dark:hover:border-blue-500 opacity-40 hover:opacity-100 dark:hover:opacity-70 duration-300">
+        className="flex items-center gap-2 border text-[11px] text-blue-500 dark:text-blue-300 py-[7.5px] px-4 border-blue-300 dark:border-blue-500 rounded-md dark:hover:text-blue-500 dark:hover:border-blue-500 opacity-70 dark:opacity-60 hover:opacity-100 dark:hover:opacity-90 duration-300">
         View CV
         <svg
           xmlns="http://www.w3.org/2000/svg"
